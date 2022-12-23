@@ -3,6 +3,9 @@ baseurl: "/Grape-Academic-Theme"
 
 # Features Setting
 # Turn subpages on or off
+#research: True
+#extracurriculars: True
+#resources: True
 publications: True
 presentations: True
 blog: True
@@ -11,30 +14,30 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
-tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
-author: Christoph Jabs (chrjabs)
+title: Marta Migó
+tagline: Clinical psychologist and computational cognitive neuroscientist
+description: A portfolio.
+author: Marta Migó
 twitter:
-  username: chrjabs
+  username: MigoMarta
   card: A jekyll theme for academic portfolios
 logo: /assets/img/smile.png
 social:
-  name: Christoph Jabs
+  name: Marta Migó
   links:
-    - https://twitter.com/chrjabs
-    - https://github.com/chrjabs
+    - https://twitter.com/MigoMarta
+    - https://github.com/martamigo
 locale: en_GB
 
 # Page Settings
 theme_settings:
-  title: Grape Academic Theme
+  title: Marta Migó
 
-  experience_title: EXPERIENCE
+  experience_title: EDUCATION
   interests_title: RESEARCH INTERESTS
   skills_title: SKILLS
-  awards_title: AWARDS
-  projects_title: PROJECTS
+  awards_title: RECENT AWARDS
+  projects_title: NEWS
   recentpubs_title: RECENT PUBLICATIONS
 
 # Pagination

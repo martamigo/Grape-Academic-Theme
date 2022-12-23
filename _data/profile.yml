@@ -1,34 +1,44 @@
 image: assets/img/smile.png
-username: Christoph Jabs
-description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
-webpage: https://chrjabs.github.io
+username: Marta Migó
+description: Double-concentration PhD student in Clinical Science and Cognitive & Computational Science at Emory University. Studying under Dr. Michael Treadway at the TReAD Lab.
+webpage: https://martamigo.github.io
 experience: # Remove for hiding the experience section
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
+  - start: 2021
+    end: Present
+    experience : Emory University, Graduate Student
+  - start: 2019
+    end: 2021
+    experience : Harvard Medical School, Post-Bac Fellow
+  - start: 2019
+    end: 2016
+    experience : New York University, Undergraduate Student
+  - start: 2016
+    end: 2015
+    experience : Columbia University, Undergraduate Student
 interests: # Remove for hiding the interests section
-  - Interest 1
-  - Interest 2
+  - Computational modelling of mind-wandering and perseverative negative thinking, such as worry and rumination.
+  - Analysis of resting-state and task-based neuroimaging and neurophysiological data.
+  - Neuromoduation of cortical and sub-cortical brain regions using TMS, DBS, and tFUS.
 skills: # Remove for hiding the skills section
   - skill: HTML5 & CSS
     value: 85  # Percent value
 social:
-  email:  # Full email address, e.g. "sample@google.com"
-  orcid: 
-  scholar: 
+  email:  marta.migo@emory.edu # Full email address, e.g. "sample@google.com"
+  orcid: 0000-0001-7944-6029
+  scholar: https://scholar.google.com/citations?user=GbBVDWMAAAAJ&hl=ca&oi=ao
   publons: 
-  research_gate: 
+  research_gate: marta.migo@emory.edu
   dblp:  # Full URL
   semantic_scholar:  # Full URL
   linkedin:  # Full URL 
-  github: chrjabs
+  github: martamigo
   gitlab: 
-  bitbucket: chrjabs
+  bitbucket: 
   google_plus:
-  mastodon: https://mastodon.social
-  twitter: chrjabs
+  mastodon: https://MartaMigo@mastodont.cat
+  twitter: MigoMarta
   youtube:
   facebook:
   instagram:
 awards: # Remove for hiding the awards section
-  - "This is an award I got"
+  - Travel award to the Society of Biological Psychiatry
